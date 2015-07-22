@@ -48,11 +48,7 @@ a{
 }
 .res-container{
     width:60%;
-    float: left;
-}
-.info-container{
-    width:30%;
-    float:right;
+    margin: auto;
 }
 
 .subheader{
@@ -80,18 +76,4 @@ a{
 .content{
     width:90%;
     margin-left: 20px;    
-}
-
-.propicture{
- height:100px;
-    width: 100px;
-    float: left;
-}
-
-.info-container h3{
-    border-bottom: 2px solid;
-    border-color: #adff2f;
-    padding-top: 1px;
-    padding-left: 20px;
-    clear: both;
 }
