@@ -1,0 +1,97 @@
+body {
+ background: #fff;  
+}
+
+.nav{
+    background: #48484a;
+    
+}
+
+.container h1{
+    color: #48484a;        
+    text-shadow: 0 0 10px #fff,
+                   0 0 20px #fff,
+                   0 0 30px #fff,
+                   0 0 40px #adff2f,
+                   0 0 70px #adff2f,
+                   0 0 80px #adff2f,
+                   0 0 100px #adff2f,
+                   0 0 150px #adff2f;
+}
+.container h3{
+ color: white;   
+}
+.jumbotron{
+    background: #84848a;
+    background-image: url(space.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+a{
+ color: #adff2f;
+ font-family: Verdana;
+}
+
+.res-container h3{
+    text-align: left;
+    border-bottom: 2px solid;
+    border-color: #adff2f;
+}
+.res-container{
+    width:60%;
+    float: left;
+}
+.info-container{
+    width:30%;
+    float:right;
+}
+
+.subheader{
+    font-weight: bold;
+
+}
+
+.header{
+    padding-top: 1px;
+    padding-left: 20px;
+    clear: both;
+}
+
+.leftli{
+    width: 60%; 
+    float: left;
+    
+}
+
+.rightli{
+    width:40%;
+    float:left;
+}
+
+.content{
+    width:90%;
+    margin-left: 20px;    
+}
+
+.propicture{
+ height:100px;
+    width: 100px;
+    float: left;
+}
+
+.info-container h3{
+    border-bottom: 2px solid;
+    border-color: #adff2f;
+    padding-top: 1px;
+    padding-left: 20px;
+    clear: both;
+}
