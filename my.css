@@ -42,7 +42,6 @@ a{
 }
 
 .res-container h3{
-    text-align: left;
     border-bottom: 2px solid;
     border-color: #adff2f;
 }
@@ -51,7 +50,8 @@ a{
     margin: auto;
 }
 
-.subheader{
+
+.subheader, #mostrecent{
     font-weight: bold;
 
 }
@@ -63,17 +63,17 @@ a{
 }
 
 .leftli{
-    width: 60%; 
+    width: 80%; 
     float: left;
     
 }
 
 .rightli{
-    width:40%;
+    width:20%;
     float:left;
+    text-align: left;
 }
 
 .content{
-    width:90%;
     margin-left: 20px;    
 }
